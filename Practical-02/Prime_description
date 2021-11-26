@@ -1,0 +1,1 @@
+We check if a number is prime or not by diving numbers less than its square roots and it reduces our task. Because for every non-prime number there would be a number which will divide it with leaving remainder 0. hence this condition can be used to check if a number is prime of not.

@@ -1,0 +1,1 @@
+This program doesn't give any error because in preprocessing the program isn't check for any error or any used keyword this is all checked in compiling part so this error is given during compiling part.

@@ -1,0 +1,1 @@
+Since in preprocessing the header files are checked and in new c++ iostream.h doesn't exict and this is all is checked in preprocessing so its gives a fatal error.

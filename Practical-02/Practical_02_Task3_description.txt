@@ -1,0 +1,1 @@
+Since we are using character to store an integer but a character only has 8 bits so it can only store for one number so it stores the first number entered. Where as when we use it as a sting and take input using getline() so it stores whole number.By default cin use getc() so it gets only one character.
